@@ -1,0 +1,17 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "cpp": false
+    },
+    "workbench.colorTheme": "Dark+",
+    "window.autoDetectColorScheme": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "claudeCode.preferredLocation": "panel",
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "C:\\Users\\meena\\AppData\\Local\\Programs\\Python\\Python314\\python.exe -u"
+    }
+}

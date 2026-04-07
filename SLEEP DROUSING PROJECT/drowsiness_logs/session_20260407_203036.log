@@ -1,0 +1,32 @@
+20:30:36 │ INFO     │ ════════════════════════════════════════════════════════════
+20:30:36 │ INFO     │   DRIVER DROWSINESS DETECTION SYSTEM v2.0  —  STARTING
+20:30:36 │ INFO     │   Audio backend : winsound
+20:30:36 │ INFO     │   Arduino       : enabled
+20:30:36 │ INFO     │   EAR threshold : 0.25  |  MAR: 0.5
+20:30:36 │ INFO     │   Camera        : requested index=0  backend=auto
+20:30:36 │ INFO     │   Camera mode   : 1920x1080 @ 30 FPS
+20:30:36 │ INFO     │   Process every : 2 frame(s)  |  process width=640
+20:30:36 │ INFO     │   Alert delays  : eyes=2.0s  yawn=1.1s
+20:30:36 │ INFO     │ ════════════════════════════════════════════════════════════
+20:30:36 │ DEBUG    │ Arduino unavailable — software-only mode. COM5: could not open port 'COM5': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+20:30:37 │ INFO     │ Camera opened on index 0 using backend: dshow
+20:30:39 │ INFO     │ Camera stream configured at 1920x1080 @ 30.0 FPS
+20:30:39 │ INFO     │ Webcam opened on index 0 with dshow. Press Q to quit.
+20:30:43 │ WARNING  │ ALERT [YAWN #1] MAR=1.273  gap=0.183  open=1.10s
+20:30:46 │ DEBUG    │ Attempting Arduino reconnect...
+20:30:46 │ DEBUG    │ Arduino unavailable — software-only mode. COM5: could not open port 'COM5': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+20:30:47 │ INFO     │ User pressed Q — shutting down.
+20:30:48 │ INFO     │ ──────────────────────────────────────────────────
+20:30:48 │ INFO     │   SESSION REPORT
+20:30:48 │ INFO     │   Duration      : 0m 11s
+20:30:48 │ INFO     │   Total frames  : 405
+20:30:48 │ INFO     │   Avg EAR       : 0.2388
+20:30:48 │ INFO     │   Total blinks  : 3
+20:30:48 │ INFO     │   Nods detected : 0
+20:30:48 │ INFO     │   Alerts        : 1
+20:30:48 │ INFO     │     yawn         : 1
+20:30:48 │ INFO     │   Screenshots   : 1
+20:30:48 │ INFO     │   Log saved     : c:\Users\meena\SLEEP DROUSING PROJECT\drowsiness_logs\session_20260407_203036.log
+20:30:48 │ INFO     │ ──────────────────────────────────────────────────
+20:30:48 │ INFO     │   JSON report   : c:\Users\meena\SLEEP DROUSING PROJECT\drowsiness_logs\report_20260407_203036.json
+20:30:48 │ INFO     │ Goodbye! Drive safe.

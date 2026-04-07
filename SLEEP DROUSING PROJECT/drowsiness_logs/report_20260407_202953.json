@@ -1,0 +1,18 @@
+{
+  "session_duration_s": 6.6,
+  "session_duration_fmt": "0m 6s",
+  "total_frames": 167,
+  "face_detected_frames": 94,
+  "avg_ear": 0.2914,
+  "avg_mar": 0.0152,
+  "total_blinks": 0,
+  "total_nods": 0,
+  "alerts": {
+    "drowsy": 0,
+    "yawn": 0,
+    "perclos": 0,
+    "nod": 0,
+    "face_lost": 0
+  },
+  "total_alerts": 0
+}
